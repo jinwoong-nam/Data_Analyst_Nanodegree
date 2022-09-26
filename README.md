@@ -25,6 +25,6 @@ In Part II, Explanatory data visualization, you will produce a short presentatio
 The data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.  
 
 ## More Information on the Nanodegree Program
-For information about the curriculum of the program, https://www.udacity.com/course/data-analyst-nanodegree--nd002
-
+For information about the curriculum of the program, https://www.udacity.com/course/data-analyst-nanodegree--nd002  
+The certificate of completion of the program is available upon request.
 
